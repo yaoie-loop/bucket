@@ -3,7 +3,7 @@
     "description": "",
     "homepage": "https://www.natfrp.com/",
     "url": "https://nya.globalslb.net/natfrp/client/launcher-windows/3.0.2.0/SakuraLauncher.exe",
-    "hash": "d8cfe24640867c531846a9efa04e3f95",
+    "hash": "ca8d6ff8184e28e438718c963732b73d91cfb86122d6d3708c1861dda634a71e",
     "innosetup": true,
     "bin": "SakuraLauncher.exe",
     "shortcuts": [
