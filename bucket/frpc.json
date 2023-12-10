@@ -7,14 +7,14 @@
             "url": "https://nya.globalslb.net/natfrp/client/frpc/0.51.0-sakura-2/frpc_windows_amd64.exe",
             "hash": "dc1d2d2a349c4fec833b59b10ef4a881e6ffbbb096313a86126c1397480cac44",
             "bin": [
-                ["frpc_windows_amd64.exe", "frpc.exe"]
+                ["frpc_windows_amd64.exe", "frpc"]
             ]
         },
         "arm64": {
             "url": "https://nya.globalslb.net/natfrp/client/frpc/0.51.0-sakura-2/frpc_windows_arm64.exe",
             "hash": "919bf99a4f1c2ec9c257ca8de918efb9954901ec9e7aeecbb5f5cbfab035e136",
             "bin": [
-                ["frpc_windows_arm64.exe", "frpc.exe"]
+                ["frpc_windows_arm64.exe", "frpc"]
             ]
         }
     },
