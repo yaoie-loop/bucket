@@ -7,3 +7,4 @@ A scoop bucket. Including:
 * scoop-search-multisource
 * hmcl
 * frpc
+* TeX Live
