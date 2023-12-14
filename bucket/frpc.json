@@ -18,7 +18,10 @@
             ]
         }
     },
-    
+    "checkver": {
+        "url": "https://www.natfrp.com/tunnel/download",
+        "regex": "/v([\\d._]+)-sakura"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
