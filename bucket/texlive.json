@@ -33,7 +33,8 @@
     },
     "env_add_path": [
         "bin\\win64",
-        "bin\\win32"
+        "bin\\win32",
+        "bin\\windows"
     ],
     "shortcuts": [
         [
