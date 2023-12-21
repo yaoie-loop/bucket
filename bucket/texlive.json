@@ -7,7 +7,7 @@
     "installer": {
         "script": [
             "Write-Host 'Invoking TeX Live installer...' -ForegroundColor DarkCyan",
-            "Write-Host 'This can take a few minutes to to a long time...' -ForegroundColor DarkYellow",
+            "Write-Host 'This can take from a few minutes to a long long time...' -ForegroundColor DarkYellow",
             "Get-ChildItem \"$dir\\install-tl-*\" | Rename-Item -NewName \"$dir\\installer\"",
             "$env:TEXLIVE_INSTALL_PAPER='a4'",
             "$env:TEXLIVE_INSTALL_PREFIX=\"$dir\"",
