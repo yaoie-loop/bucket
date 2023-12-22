@@ -42,7 +42,10 @@
             "Tex Live Manager"
         ]
     ],
-    "persist": "texmf-config",
+    "persist": [
+        "texmf-config",
+        "texmf-local"
+    ],
     "checkver": {
         "regex": "Current release: TeX Live ([\\d]+)"
     },
